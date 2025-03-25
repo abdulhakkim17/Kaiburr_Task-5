@@ -3,6 +3,9 @@ Data Science example
 
 Consumer Complaint Text Classification
 
+Screenshot is inside the folder: Screenshots
+
+
 #Overview
 This project performs text classification on the Consumer Complaint Dataset, categorizing complaints into four categories:
 
