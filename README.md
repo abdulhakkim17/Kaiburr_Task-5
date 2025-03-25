@@ -5,6 +5,7 @@ Consumer Complaint Text Classification
 
 #Verify all output - Screenshot is inside the folder: Screenshots
 
+Source code: Task 5/complaints
 
 #Overview
 This project performs text classification on the Consumer Complaint Dataset, categorizing complaints into four categories:
@@ -31,16 +32,7 @@ Pre-processed text (lowercasing, tokenization, stopword removal, lemmatization, 
 2. Exploratory Data Analysis (EDA)
 Analyzed complaint distribution across categories.
 
-Visualized word frequency and n-grams using matplotlib and seaborn.
-
-Created word clouds for better textual representation.
-
-3. Feature Engineering
-Converted text into numerical representations using TF-IDF and CountVectorizer.
-
-Experimented with different feature extraction techniques for better performance.
-
-4. Model Selection
+3. Model Selection
 Tested multiple classification models, including:
 
 Logistic Regression
@@ -51,6 +43,6 @@ Random Forest
 
 Naïve Bayes
 
-6. Prediction
+4. Prediction
 Provided predictions on new complaint texts.
 
