@@ -3,7 +3,7 @@ Data Science example
 
 Consumer Complaint Text Classification
 
-Screenshot is inside the folder: Screenshots
+#Verify all output - Screenshot is inside the folder: Screenshots
 
 
 #Overview
